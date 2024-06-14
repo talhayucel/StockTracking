@@ -6,7 +6,7 @@ Inventory Tracking Application is ideal for businesses or warehouses. Users can 
 
 ------------------------------------
 🌟
-The application is developed in Python using the tkinter library. The interface consists of different sections:
+The interface consists of different sections:
 
 - Available Stocks: 
 > A screen where users can view their stocks.
